@@ -1,7 +1,6 @@
-# Это сайт про Блока
+# This is my homework
 
-## Вот сcылка на доклад
+## Thank you for watching!
 
-![Доклад](https://deko519.github.io/Blok/blok.htm)
+### Cheers!
 
-### Спасибо за внимание!
