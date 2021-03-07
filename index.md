@@ -2,7 +2,8 @@
 
 ## Thank you for watching!
 
+[Blok](blok.htm)
+
 ### Cheers!
 
-### Это русский текст!
 
